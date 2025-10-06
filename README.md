@@ -42,6 +42,6 @@ By the end of this journey (2 years MSc), this repo will include:
 ---
 
 ## 👤 Author
-**D Naga Surendra R**  
+**D Naga Surendra Reddy
 MSc Artificial Intelligence & Robotics (UK)  
 GitHub: [Naga24781](https://github.com/Naga24781)  
