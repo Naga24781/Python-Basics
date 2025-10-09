@@ -1,0 +1,5 @@
+file = open("New.txt", "a")
+file.write("\nAppending a new line to existing file.\n")
+file.write("This is amazing!\n")
+file.close()
+print(" Lines appended successfully!")
