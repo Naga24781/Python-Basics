@@ -37,6 +37,32 @@ This repo contains daily practice programs, mini-projects, and progress logs.
   - Area of Circle  
 - Mini Project: `student_grader.py`  
 - Practiced clean code & modular programming
+Day 6 – File Handling
+
+Learned different file modes:
+
+'r' → Read existing file
+
+'w' → Write new file (overwrites old content)
+
+'a' → Append text to existing file
+
+Practiced using with open() for automatic file closing
+
+Used try / except to handle FileNotFoundError safely
+
+Understood the use of while True for continuous menus
+
+Created and read text files successfully
+
+Mini Projects:
+
+write_file.py
+
+append_file.py
+
+read_file.py
+
 
 
 
