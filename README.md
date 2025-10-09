@@ -29,6 +29,15 @@ This repo contains daily practice programs, mini-projects, and progress logs.
 - **set_practice.py** – Friend list comparison
 - **dict_practice.py** – Friend age tracker
 - **student_grader.py** – Mini project with grading, average & topper detection
+### Day 5 – Functions**
+- Created reusable functions for:
+  - Even or Odd  
+  - Factorial  
+  - Largest of 3 numbers  
+  - Area of Circle  
+- Mini Project: `student_grader.py`  
+- Practiced clean code & modular programming
+
 
 
 ---
